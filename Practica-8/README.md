@@ -1,0 +1,3 @@
+1. Para compilar la practica debe estar en el directorio Practica-8 y escribir en la terminal ant compile
+2. Una vez ya compilado escriba en la terminal ant run_prueba si quiere verificar si una coordenada esta dentro del limite de las columnas y renglones, si pone una letra despues de h del abecedario soltara que la columna es invalina y si escribe un numero mayor a 8 o menor que 1 soltara que el renglon es invalido
+3. Para usar UsoAjedrez escriba en la terminal ant run_UsoAjedrez y si quiere cambiar las coordenadas de esta clase, dirigase al directorio ajedrez y a la clase UsoAjedrez.java y podra cambiar los valores de este
